@@ -29,7 +29,7 @@ npm run unit
     * `*` update or bugfix
     * `-` remove
 * `{module}`
-    * Including: component, doc, example, all 
+    * Including: component, doc, example, readme, all etc.
 * `{description}`
     * It's ***RECOMMENDED*** to close issue with syntax `close #123` or `fix #123`, see [the doc](https://help.github.com/articles/closing-issues-via-commit-messages/) for more detail. It's useful for responding issues and [release flow](https://github.com/razord/razord/releases/).
 
