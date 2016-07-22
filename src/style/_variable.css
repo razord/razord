@@ -3,11 +3,11 @@ $base-color: #222;
 $bg-color:   #f8f8f8;
 
 $gray-base-color:    #222;
-$gray-darker-color:  #222;
-$gray-dark-color:    #222;
-$gray-color:         #222;
-$gray-light-color:   #222;
-$gray-lighter-color: #222;
+$gray-darker-color:  #333;
+$gray-dark-color:    #666;
+$gray-color:         #999;
+$gray-light-color:   #DDD;
+$gray-lighter-color: #EEE;
 
 $primary-color: #9d48d5;
 $info-color:    #07bcff;
