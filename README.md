@@ -38,3 +38,11 @@ for example:
 * `+ [component] close #123, add button component`
 * `* [doc] fix #123, add button component doc`
 * `- [example] remove abc`
+
+## Code Style
+
+see [razord-code-style-guide](https://github.com/razord/razord-code-style-guide)
+
+## Source file of UI design
+
+see [razord-style-guide](https://github.com/razord/razord-style-guide)
